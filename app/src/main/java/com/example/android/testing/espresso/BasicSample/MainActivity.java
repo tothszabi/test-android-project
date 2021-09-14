@@ -48,7 +48,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mTextView = (TextView) findViewById(R.id.textToBeChanged);
         mEditText = (EditText) findViewById(R.id.editTextUserInput);
     }
-    // Test
+    // Test test
     @Override
     public void onClick(View view) {
         // Get the text from the EditText view.
